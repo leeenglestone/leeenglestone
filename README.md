@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, my name's Lee Englestone 👋
 
-<!--
-**leeenglestone/leeenglestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get In Touch
 
-Here are some ideas to get you started:
+-  [LinkedIn](https://www.linkedin.com/in/leeenglestone/) 
+-  [Twitter](https://www.twitter.com/leeenglestone/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Sites
+-  [ManchesterDeveloper.com](https://manchesterdeveloper.com/)
+-  [XamarinArkit.com](https://XamarinArkit.com/)
+-  [VisualStudioTips.co.uk](https://visualstudiotips.co.uk/)
+-  [WindowsTerminalTips.com](https://windowsterminaltips.com/)
+-  [ExpressionDesign4.com](https://expressiondesign4.com/)
+-  [MRTK.dev](https://mrtk.dev/)
+-  [HackathonTips.com](https://hackathontips.com/)
+-  [CodeReviewChecklist.com](https://codereviewchecklist.com/)
+-  [SmileCounter.com](https://smilecounter.com/)
+
