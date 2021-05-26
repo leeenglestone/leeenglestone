@@ -20,3 +20,5 @@
 
 ## My Book
 -  [.NET Developer's Guide to Augmented Reality in iOS](https://amzn.to/348yS9K)
+
+![.NET Developer's Guide to Augmented Reality in iOS](images/book.jpg)
