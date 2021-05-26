@@ -1,3 +1,4 @@
+<img src="images/header.png">
 ### Hi there, my name's Lee Englestone 👋
 
 ## Get In Touch / Follow / Subscribe
