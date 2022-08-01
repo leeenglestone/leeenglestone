@@ -21,14 +21,17 @@
 -  [PushupCounter.com](https://pushupcounter.com/) - A site to help people count and share their pushups
 -  [GoodyOrBaddy.com](https://goodyorbaddy.com) - A site to show how a ML.NET machine learning model can be trained, hosted in an Azure Function and called from a website
 -  [IsChristmasTree.com](https://IsChristmasTree.com) - A site to show how an image classification model can be trained, hosted in CustomVision.ai and called from a website
+-  [TaekwondoTips.com](https://TaekwondoTips.com) - Work in Progress
 
 ## Open Source Projects (More coming soon)
-- Pushup Counter - A simple webpage
-- BoardsVR - An example virtual reality project using Mixed Reality library StereoKit.net - More details can be found at BoardsVR.com
+- [Tech Community Calendar](https://github.com/Avanade/TechCommunityCalendar) - A calendar of tech events including conferences, hackathons, meetups and call for speakers
+- [Pushup Counter](https://github.com/leeenglestone/PushupCounterPublic) - A simple webpage for tracking and displaying pushups
+- [BoardsVR](https://github.com/leeenglestone/BoardsVR) - An example virtual reality project using Mixed Reality library StereoKit.net - More details can be found at BoardsVR.com
 - Leaflet clustering lat/lon example - Leaflet map clustering with latitude/longiture of major cities
-- Goody Or Baddy - Can an AI Machine Learning Image classification model discern between good and bad chartoon characters
-- Is Christmas Tree ? - Can an AI Machine Learning Image classification model discern between a Christmas tree and a regular tree
-
+- [Goody Or Baddy?](https://github.com/leeenglestone/GoodyOrBaddy) - Can an AI Machine Learning Image classification model discern between good and bad chartoon characters
+- [Is Christmas Tree?](https://github.com/leeenglestone/IsChristmasTree) - Can an AI Machine Learning Image classification model discern between a Christmas tree and a regular tree
+- [Space Trask TrackAR](https://github.com/leeenglestone/SpaceTrashTrackAR) - Entry for NASA Space App Challenge 2021 - Displaying space trash in Augmented Reality
+- [WebP Converter](https://github.com/leeenglestone/WebPConverter) - A C# project showing how to convert images to .webp format
 
 ## My Book
 -  [.NET Developer's Guide to Augmented Reality in iOS](https://amzn.to/348yS9K)
