@@ -6,6 +6,7 @@
 -  [LinkedIn](https://www.linkedin.com/in/leeenglestone/) 
 -  [Twitter](https://www.twitter.com/leeenglestone/) 
 -  [YouTube](https://www.youtube.com/user/LeeEnglestone)
+-  [TikTok](https://www.tiktok.com/@leeenglestone)
 
 
 ## Websites Of Mine
@@ -22,6 +23,7 @@
 -  [GoodyOrBaddy.com](https://goodyorbaddy.com) - A site to show how a ML.NET machine learning model can be trained, hosted in an Azure Function and called from a website
 -  [IsChristmasTree.com](https://IsChristmasTree.com) - A site to show how an image classification model can be trained, hosted in CustomVision.ai and called from a website
 -  [TaekwondoTips.com](https://TaekwondoTips.com) - Work in Progress
+-  [CatsOf.Net](https://CatsOf.net) - A place where the tech community can share their love of their pet cats
 
 ## Open Source Projects (More coming soon)
 - [Tech Community Calendar](https://github.com/Avanade/TechCommunityCalendar) - A calendar of tech events including conferences, hackathons, meetups and call for speakers
@@ -32,7 +34,8 @@
 - [Is Christmas Tree?](https://github.com/leeenglestone/IsChristmasTree) - Can an AI Machine Learning Image classification model discern between a Christmas tree and a regular tree
 - [Space Trask TrackAR](https://github.com/leeenglestone/SpaceTrashTrackAR) - Entry for NASA Space App Challenge 2021 - Displaying space trash in Augmented Reality
 - [WebP Converter](https://github.com/leeenglestone/WebPConverter) - A C# project showing how to convert images to .webp format
-
+- [CatsOf.Net](https://CatsOf.net) - A place where the tech community can share their love of their pet cats
+- 
 ## My Book
 -  [.NET Developer's Guide to Augmented Reality in iOS](https://amzn.to/348yS9K)
 
