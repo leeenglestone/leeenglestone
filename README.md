@@ -14,6 +14,7 @@
 
 
 ## Websites & projects of mine
+-  [TechCommunityCalendar.com](https://techcommunitycalendar.com) - A site that aggregates tech conferences, meetups, hackathons and call for papers
 -  [ManchesterDeveloper.com](https://manchesterdeveloper.com/) - Personal blog - I generally post on LinkedIn.com instead
 -  [XamarinArkit.com](https://XamarinArkit.com/) - Website showing how to create an Augmented Reality app for iOS using C#, Xamarin and ARKit 
 -  [VisualStudioTips.co.uk](https://visualstudiotips.co.uk/) - Tips for Visual Studio
