@@ -8,8 +8,11 @@
 -  [YouTube](https://www.youtube.com/user/LeeEnglestone)
 -  [TikTok](https://www.tiktok.com/@leeenglestone)
 
+## My Stats
 
-## Websites & projects Of mine
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leeenglestone&theme=dark)](https://git.io/streak-stats)
+
+## Websites & projects of mine
 -  [ManchesterDeveloper.com](https://manchesterdeveloper.com/) - Personal blog - I generally post on LinkedIn.com instead
 -  [XamarinArkit.com](https://XamarinArkit.com/) - Website showing how to create an Augmented Reality app for iOS using C#, Xamarin and ARKit 
 -  [VisualStudioTips.co.uk](https://visualstudiotips.co.uk/) - Tips for Visual Studio
