@@ -12,6 +12,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leeenglestone&theme=dark)](https://git.io/streak-stats)
 
+
 ## Websites & projects of mine
 -  [ManchesterDeveloper.com](https://manchesterdeveloper.com/) - Personal blog - I generally post on LinkedIn.com instead
 -  [XamarinArkit.com](https://XamarinArkit.com/) - Website showing how to create an Augmented Reality app for iOS using C#, Xamarin and ARKit 
@@ -38,6 +39,13 @@
 - [Space Trask TrackAR](https://github.com/leeenglestone/SpaceTrashTrackAR) - Entry for NASA Space App Challenge 2021 - Displaying space trash in Augmented Reality
 - [WebP Converter](https://github.com/leeenglestone/WebPConverter) - A C# project showing how to convert images to .webp format
 - [CatsOf.Net](https://github.com/leeenglestone/CatsOfNet) - A place where the tech community can share their love of their pet cats
+
+## Latest Tweets
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/leeenglestone?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=leeenglestone&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
 
 ## My Book
 -  [.NET Developer's Guide to Augmented Reality in iOS](https://amzn.to/348yS9K)
